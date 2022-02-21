@@ -126,6 +126,26 @@
         "hungry"
       ],
       "id": "12"
+    },
+    {
+      "name": "Test",
+      "species": "tiger",
+      "diet": "carnivore",
+      "personalityTraits": [
+        "anxious"
+      ],
+      "id": "13"
+    },
+    {
+      "name": "Nervous",
+      "species": "bear",
+      "diet": "carnivore",
+      "personalityTraits": [
+        "hungry",
+        "anxious",
+        "loving"
+      ],
+      "id": "14"
     }
   ]
 }
